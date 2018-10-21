@@ -10,3 +10,4 @@ inputs:
 
 run:
   path: ls
+  args: ["-al", "resource-tutorial"]
